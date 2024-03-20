@@ -1,0 +1,6 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "WebApplication17\\bin\\Release\\net6.0\\publish",
+  "cmake.configureOnOpen": false,
+  "appService.defaultWebAppToDeploy": "/subscriptions/1c470de8-f422-4a59-8b5f-3519504f3627/resourceGroups/asoft-apps-rg/providers/Microsoft.Web/sites/asoft-api-01"
+}
